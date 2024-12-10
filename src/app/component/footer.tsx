@@ -1,12 +1,11 @@
 
 import React from "react";
 import Image from "next/image";
-import Link from "next/link";
+
 
 
 import footer1 from "/images/footer1.jpg";
-import footer2 from "/images/footer2.png";
-import footer3 from "/images/footer3.png";
+
 
 
 

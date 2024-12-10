@@ -1,6 +1,6 @@
 import Image from "next/image";
 import home1 from "/images/home1.jpg";
-import { PiX } from "react-icons/pi";
+
 
 export default function Header() {
   return (
