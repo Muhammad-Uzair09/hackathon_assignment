@@ -1,23 +1,12 @@
-
 import React from "react";
 import Image from "next/image";
-
-
 import footer1 from "/images/footer1.jpg";
-
-
-
-
 import { PiClockClockwiseBold } from "react-icons/pi";
 import { FaFacebookF } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaYoutube } from "react-icons/fa";
 import { FaPinterest } from "react-icons/fa";
-
-
-
-
 const Footer = () => {
   return (
     <footer className=" bg-black">
@@ -34,12 +23,8 @@ const Footer = () => {
           />
           <button className="text-[#FF9F0D] bg-white py-[5px] md:py-[10px] px-[10px] md:px-[20px]">Subscribe Now</button>
         </div>
-
-
       </div>
-
       <hr className="my-4 border-[#FF9F0D] mx-[135px]" />
-
       <div className="mx-auto w-full max-w-screen-xl ">
         <div className="grid grid-cols-2  md:gap-[50px] px-0 md:px-[135px] py-6 lg:py-8 md:grid-cols-4">
           <div>
@@ -171,7 +156,7 @@ const Footer = () => {
 
               <li className="flex gap-[16.5px] mt-[14px]">
                 <Image src={footer1} alt="Fod" width={80.24} height={79.76} />
-                  
+
 
                 <div className="ml-1">
                   <h2 className="text-[12px] text-[#FFFFFF] font-normal">
@@ -185,7 +170,7 @@ const Footer = () => {
 
               <li className="flex gap-[16.5px] mt-[14px]">
                 <Image src={footer1} alt="Fod" width={80.24} height={79.76} />
-          
+
 
                 <div className="ml-1">
                   <h2 className="text-[12px] text-[#FFFFFF] font-normal">
