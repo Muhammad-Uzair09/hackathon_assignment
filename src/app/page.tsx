@@ -5,7 +5,6 @@ import Header from "./component/header";
 import Hero1 from "./component/hero";
 import Hero2 from "./component/hero2";
 import Hero4 from "./component/hero4";
-import Hero5 from "./component/footerlogo";
 import Hero6 from "./component/hero6";
 import Footerlogos from "./component/footerlogo";
 
