@@ -14,8 +14,6 @@ export default function Header() {
   </span>
 </a>
 
-
-
           {/* Navigation */}
           <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
             <a className="mr-5 hover:text-yellow-300 transition">Home</a>
